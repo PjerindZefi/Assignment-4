@@ -1,0 +1,26 @@
+body {
+  background-image: url("img/img1.jpg");
+    margin-left: 50px;
+  }
+  h1,
+  h2,
+  h3  {
+    text-align: center;
+  }
+  
+  p{
+    font-family: verdana;
+    font-size: 20px;
+    margin-left: 50px;
+  }
+
+  .buttons{
+    margin: auto;
+  }
+
+  .dont-hover{
+    margin-top: 200px;
+    text-align: center;
+    font-size: 50px;
+  }
+ 
